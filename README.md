@@ -37,6 +37,6 @@ A real-time code editor for seamless collaboration with multi-language support a
 Open in a browser, join a session, and start coding!
 
 
-🤝 Contributing
+🤝 Contribution
 
 Fork, improve, and submit a pull request.
